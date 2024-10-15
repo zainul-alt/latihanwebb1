@@ -1,2 +1,3 @@
-# latihanwebb1
-nama : zainul nim : 2205101128
+# latihanModul1
+Nama : zainul
+Nim : 2205101128
